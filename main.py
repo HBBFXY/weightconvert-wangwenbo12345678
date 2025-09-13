@@ -1,4 +1,4 @@
-# 在这个文件下编写代码，题目具体要求见READMEdef weight_converter():
+
     input_str = input().strip()
 
     if input_str.endswith('kg'):
