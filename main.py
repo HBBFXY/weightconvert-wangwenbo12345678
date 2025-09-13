@@ -1,4 +1,4 @@
-
+def weight_converter():
     input_str = input().strip()
 
     if input_str.endswith('kg'):
@@ -12,4 +12,4 @@
     else:
         printf("输入格式错误, 请以kg或pd结尾")
 if __name__ == "__main__":
-    weight_converter().md文件
+    weight_converter()
